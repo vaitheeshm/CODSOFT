@@ -1,0 +1,103 @@
+[
+  {
+    "name": "The Magic of Thinking Big",
+    "price": 230,
+    "description": "The Magic of Thinking Big teaches readers how to set their goals high and think positively to achieve them.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Books",
+    "seller": "Madras publishers",
+    "stock": 5
+  },
+  {
+    "name": "The Alchemist",
+    "price": 300,
+    "description": "The Alchemist is a story about following your dreams and the treasure you find when you do.",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Books",
+    "seller": "Flamigo publication",
+    "stock": 9
+  },
+  {
+    "name": "The Power of Now",
+    "price": 180,
+    "description": "The Power of Now emphasizes living in the present moment as the path to happiness and enlightenment.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "category": "Books",
+    "seller": "Madras publishers",
+    "stock": 9
+  },
+  {
+    "name": "Rich Dad Poor Dad",
+    "price": 250,
+    "description": "Rich Dad Poor Dad shares lessons on personal finance and investing from the author's two 'dads'.",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "category": "Books",
+    "seller": "Madras publishers",
+    "stock": 9
+  },
+  {
+    "name": "The Power of Positive Thinking",
+    "price": 280,
+    "description": "The Power of Positive Thinking encourages readers to be optimistic and believe in themselves.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "category": "Books",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "The Happiness Advantage",
+    "price": 160,
+    "description": "The Happiness Advantage explains how positive psychology can improve your performance and lead to success.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/6.jpg"
+      }
+    ],
+    "category": "Books",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Think and Grow Rich",
+    "price": 200,
+    "description": "Think and Grow Rich provides a philosophy for success and personal achievement.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/7.jpg"
+      }
+    ],
+    "category": "Books",
+    "seller": "Flamigo publication",
+    "stock": 6
+  }
+]
